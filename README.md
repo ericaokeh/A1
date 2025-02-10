@@ -39,7 +39,7 @@ colormagic
 Add your screen recordings for specified implemented features here:
 ## Losing Screen Recording
 
-[![Losing screen recording](https://ezgif.com/save/ezgif-847b06fb0c334a.gif)](https://drive.google.com/file/d/1weKYTJplOH8ldLYGTwxUPz14ltjkr-Wj/view?usp=sharing)
+[![Losing screen recording](https://s7.ezgif.com/tmp/ezgif-794a8f509f9336.gif)](https://drive.google.com/file/d/1weKYTJplOH8ldLYGTwxUPz14ltjkr-Wj/view?usp=sharing)
 
 ---
 
