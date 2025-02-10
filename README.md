@@ -37,10 +37,15 @@ colormagic
 ## Video Walkthrough 
 
 Add your screen recordings for specified implemented features here:
-[Losing screen recording](https://drive.google.com/file/d/1weKYTJplOH8ldLYGTwxUPz14ltjkr-Wj/view?usp=sharing)
-[Winning screen recording](https://drive.google.com/file/d/1HCVHi3qc9nMZO2sZxaVINxzP6QXwTS00/view?usp=sharing)
+## Losing Screen Recording
 
+[![Losing screen recording](https://ezgif.com/save/ezgif-847b06fb0c334a.gif)](https://drive.google.com/file/d/1weKYTJplOH8ldLYGTwxUPz14ltjkr-Wj/view?usp=sharing)
 
+---
+
+## Winning Screen Recording
+
+[![Winning screen recording](https://ezgif.com/save/ezgif-2603c4ce38a69c.gif)](https://drive.google.com/file/d/1HCVHi3qc9nMZO2sZxaVINxzP6QXwTS00/view?usp=sharing)
 
 ## Interview Recording URL Link
 
