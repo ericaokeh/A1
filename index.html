@@ -4,18 +4,30 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>Finalist Task</title>
-  <!-- Links our CSS code to our HTML code -->
+  <title> Light and Sound Memory Game</title>
+   <!-- Links our CSS code to our HTML code -->
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
+    <body>
+    <h1> Welcome To The Light and Sound Memory Game! </h1>
 
-<body>
-  <h1>Hello world</h1>
+    <p> Repeat the sound pattern you hear correctly to win the game! Otherwise, be eliminated... </p>
+ 
+ 
+   
+  <button id ="startBtn" onclick="startGame()" > Start </button>
+  <button id ="stopBtn" onclick = "stopGame()" class="hidden" > Stop </button>
 
+    <div id="gameButtonArea">
 
-  <!-- Links our JavaScript code to our HTML code -->
-  <script src="script.js"></script>
-</script>
-</body>
+    <button type ="button" id='button1' onmousedown="startTone(1)" onmouseup="stopTone()" onclick="guess(1)"> </button>
+    <button type ="button" id='button2' onmousedown="startTone(2)" onmouseup="stopTone()" onclick="guess(2)">  </button>
+    <button type ="button" id='button3' onmousedown="startTone(3)" onmouseup="stopTone()" onclick="guess(3)">  </button>
+    <button type ="button" id='button4' onmousedown="startTone(4)" onmouseup="stopTone()" onclick="guess(4)">  </button>
+    </div>
+    <!-- Links our CSS code to our JavaScript code -->
+    <script src="script.js"></script>
+      
+  </body>
 
-</html>
+  </html>

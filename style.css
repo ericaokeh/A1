@@ -1,4 +1,83 @@
-body {
-  font-family: helvetica, arial, sans-serif;
+body{
+  background-color: #004d00;
+  color: #f0a800;
+  font-family : verdana;
   margin: 2em;
 }
+h1 {
+  font-family : verdana;
+}
+
+
+  button{
+  height : 200px;
+  width: 200px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#gameButtonArea{
+  width: 200%;
+  height: 200px;
+  margin: 2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#startBtn{
+  height : 30px;
+  width: 4%;
+  padding: 10px;
+  font-family : verdana;
+  padding-top: 5px; 
+  color: #004d00;
+  background-color: #dac88b;
+  margin-bottom: 25px
+  
+}
+#stopBtn{
+  height : 30px;
+  width: 4%;
+  padding: 10px;
+  font-family : verdana;
+  padding-top: 5px; 
+  color: #004d00;
+  background-color: #dac88b;
+  margin-bottom: 25px
+}
+
+#button1:active, #button1.lit{
+  background-color : #b5daa4 ;
+}
+
+#button2:active, #button2.lit{
+  background-color:#f8e2af ;
+}
+#button3:active, #button3.lit{
+  background-color: #d88d4b;
+}
+#button4:active, #button4.lit{
+  background-color:#992959;
+}
+
+#button1{
+  background-color: #9e8400;
+}
+
+#button2{
+  background-color: #e09900;
+}
+
+#button3{
+  background-color: #eb8100 ;
+}
+
+#button4{
+  background-color: #aa5a6f;
+}
+
+
