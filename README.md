@@ -45,7 +45,7 @@ Add your screen recordings for specified implemented features here:
 
 ## Winning Screen Recording
 
-[![Winning screen recording](https://ezgif.com/save/ezgif-2603c4ce38a69c.gif)](https://drive.google.com/file/d/1HCVHi3qc9nMZO2sZxaVINxzP6QXwTS00/view?usp=sharing)
+[![Winning screen recording](https://s7.ezgif.com/tmp/ezgif-794a8f509f9336.gif)](https://drive.google.com/file/d/1HCVHi3qc9nMZO2sZxaVINxzP6QXwTS00/view?usp=sharing)
 
 ## Interview Recording URL Link
 
